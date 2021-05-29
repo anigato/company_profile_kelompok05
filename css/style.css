@@ -1,0 +1,113 @@
+body {
+	font-family: 'Telex', cursive;
+	background-size: 100%;
+}
+
+nav a {
+	font-family: 'Poppins' !important;
+}
+
+.slider h3,
+h5 {
+	font-family: 'McLaren' !important;
+}
+
+.slider h1,
+.slider h4,
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slides h3,
+i {
+	text-shadow: 3px 3px 5px #2979ff;
+}
+
+.parallax-container {
+	height: 20%;
+	margin-top: -20px;
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.team .card {
+	border-radius: 10px;
+}
+
+.teams h3 {
+	/* margin-left: 100px; */
+}
+
+.teams .container{
+	margin: 0px 100px 100px 100px;
+
+}
+
+/* .teams img {border-radius: 50%!important;padding: 2vh;} */
+
+.carousel-item {
+	/*max-width: 100%;*/
+	/*height: auto;*/
+	height: 300px !important;
+	width: 300px !important;
+}
+
+.product-name {
+	background-color: rgba(255, 255, 255, 0.5);
+	width: 100%;
+}
+
+section {
+	padding: 20px 0;
+	/*agar background warna abu abu ukuran penuh*/
+}
+
+.clients img {
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+
+.toggle-content {
+	display: none;
+	height: 0;
+	overflow: hidden;
+	transition: height 350ms ease-in-out;
+}
+
+.toggle-content.is-visible {
+	display: block;
+	height: auto;
+}
+
+
+
+
+.port-row {
+	padding: 0px 0px 0px 280px;
+
+}
+
+.container-products {
+	margin: 0px 100px 100px 100px;
+}
+
+.testimoni h1 {
+	text-align: center;
+}
+
+.testimoni img {
+	width: 120px;
+	height: 120px;
+	border-radius: 80%;
+	margin-left: 35%;
+	margin-top: 20px;
+}
+
+
+.card-img {
+	height: auto;
+}
